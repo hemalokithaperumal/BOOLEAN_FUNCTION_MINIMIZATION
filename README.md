@@ -61,6 +61,8 @@ endmodule
 
 **Timing Diagram**
 ![wavw](waveform2.jpg)
+
+
 ![truth](truth2.jpg)
 
 **Result:**
