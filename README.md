@@ -33,11 +33,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: HEMA LOKITHA P
-RegisterNumber: 212223110014*/
+/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. */
 ```
+Developed by: HEMA LOKITHA P
+RegisterNumber: 212223110014
+
 module program2(A,B,C,D,F1);
 input A,B,C,D;
 output F1;
